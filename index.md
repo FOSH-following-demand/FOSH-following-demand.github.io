@@ -1,10 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-Hi! welcome to the home of the Build FOSH following demand project.
+## Hi! welcome to the home of the Build FOSH following demand project.
 
 ### Here is the short version of what this is all about:
 
@@ -29,10 +23,3 @@ Hi! welcome to the home of the Build FOSH following demand project.
   -  Map the demand (This started as Andre's Mozilla Fellowship project and is expected to be completed (at least a first map) by June 2019.
 
   -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
-
-
-This website was built using:
-
-[Jekyll](https://jekyllrb.com)  
-
-[Jekyll-mapping](https://github.com/matthewowen/jekyll-mapping)
