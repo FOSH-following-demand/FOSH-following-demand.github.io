@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+    background: #777;
+    border: 2px solid #000;
+}
+
+#banner .fork {
+    background-color: #4276b6;
+}
+
+#banner .fork strong {
+    color: #fff;
+}
+
+#banner .button:hover{
+  background:linear_gradient(#369, #69a);
+  background-color:#39a
+}
+
+#banner .button {
+    border: 1px solid #39a;
+}
