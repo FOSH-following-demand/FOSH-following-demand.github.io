@@ -18,7 +18,7 @@ title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
 description: " Hi! This is the landing page for the Building FOSH followind demand project.#
  Here you'll find news, results and information on how to collaborate with this project."
-baseurl: "/" #"/compiled_site/" # the subpath of your site, e.g. /blog
+baseurl: "/en/home" #"/compiled_site/" # the subpath of your site, e.g. /blog
 url: "https://FOSH-following-demand.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: "Chagas_am"
