@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+
+    <div>
+    Pages:
+    {% include menu.html %}
+    </div>
+    <br>
+    <div>
+    Language:
+    {% include selector.html %}
+    </div>
+
+    <br>
+    <br>
+    <div>
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

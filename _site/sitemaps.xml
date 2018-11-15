@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+        <loc>/jekyll/update/2018/11/11/welcome-to-jekyll.html</loc>
+        
+        
+        <lastmod>2018-11-11T12:41:12+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+  
+    
+      <url>
+        <loc>/404.html</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/en/about/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/about/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/sobre" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/pt/colaboracao/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/colaboracao/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/collaborating/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/en/collaborating/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/colaboracao/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/collaborating/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/en/home/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/home/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/inicio/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/pt/inicio/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/home/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/inicio/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/en/map/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/map/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/mapa" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/pt/mapa</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/map/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/mapa" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/pt/questionario</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/questionario" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/survey" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/sitemaps.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/pt/sobre</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/about/" />
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/sobre" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/en/survey</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="pt" href="/pt/questionario" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/en/survey" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/assets/main.css</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/feed.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/sitemap.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/robots.txt</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+</urlset>
