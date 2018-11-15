@@ -36,7 +36,7 @@ plugins:
   - jekyll-sitemap
 #  - jekyll-multiple-languages-plugin
 
-exclude: [Rakefile]
+exclude: [Rakefile, README.md]
 
 t:
   en:

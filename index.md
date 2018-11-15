@@ -4,7 +4,7 @@
 
 layout: home
 title: index
-permalink: /
+permalink: 
 lang: en
 ---
 
