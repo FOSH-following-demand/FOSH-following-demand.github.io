@@ -8,9 +8,6 @@ ref: home
 ---
 
 
-
-
-
 ### Hi! welcome to the home of the Build FOSH following demand project.
 
 ### To find out what this is all about, click [here](/en/about)
