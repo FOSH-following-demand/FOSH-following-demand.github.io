@@ -1,2 +1,116 @@
-title: "FOSH Following Demand"
-theme: jekyll-theme-leap-day
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "Building FOSH following demand"
+email: "andremaia.chagas@gmail.com"
+description: " Hi! This is the landing page for the Building FOSH followind demand project.#
+ Here you'll find news, results and information on how to collaborate with this project."
+baseurl: "/" #"/compiled_site/" # the subpath of your site, e.g. /blog
+url: "https://FOSH-following-demand.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter_username: "Chagas_am"
+github_username:  "amchagas"
+
+
+highlighter: rouge
+safe: False
+# Build settings
+markdown: kramdown
+theme: minima
+#theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+#  - jekyll-multiple-languages-plugin
+
+exclude: [Rakefile]
+
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/en/home"
+    about:
+      name: "About"
+      url: "/en/about/"
+    collaborating:
+      name: "Collaborating"
+      url: "/en/collaborating"
+    map:
+      name: "Map"
+      url: "/en/map"
+    survey:
+      name: "Survey"
+      url: "/en/survey"
+
+  pt:
+    home:
+      name: "início"
+      url: "/pt/inicio"
+    about:
+      name: "Sobre"
+      url: "/pt/sobre/"
+    collaborating:
+      name: "Colaboracao"
+      url: "/pt/colaboracao"
+    map:
+      name: "Mapa"
+      url: "/pt/mapa"
+    survey:
+      name: "Questionario"
+      url: "/pt/questionario"
+#language support
+#languages: ["en", "pt_BR"]
+#default_lang: "en"
+#exclude_from_localization: ["javascript", "images", "css"]
+#parallel_localization: true
+
+
+#things that can be overwritten
+# github: [metadata]
+# encoding: UTF-8
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# future: true
+# jailed: false
+# theme: jekyll-theme-primer
+# gfm_quirks: paragraph_end
+
+
+#things overwritten by github and Jekyll (should not be changed)
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
