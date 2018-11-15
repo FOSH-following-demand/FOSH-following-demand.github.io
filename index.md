@@ -1,3 +1,4 @@
+---
 layout: page
 title: Home
 permalink: /en/home/
