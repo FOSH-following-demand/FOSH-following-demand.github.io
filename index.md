@@ -10,18 +10,3 @@ lang: en
 ---
 
 ### Hi! welcome to the home of the Build FOSH following demand project.
-
-{% raw %}
-<div>
-Pages:
-{% include menu.html %}
-</div>
-<br>
-<div>
-Language:
-{% include selector.html %}
-</div>
-
-<br>
-
-{% endraw %}
