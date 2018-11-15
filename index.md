@@ -6,7 +6,7 @@ layout: home
 title: index
 permalink:
 lang: en
-ref: home
+
 ---
 
 ### Hi! welcome to the home of the Build FOSH following demand project.
