@@ -20,12 +20,10 @@ description: " Hi! This is the landing page for the Building FOSH followind dema
  Here you'll find news, results and information on how to collaborate with this project."
  
  
-plugins:
-  - jekyll-redirect-from
-  
-  
+
+
 #
-# setting url breaks it for testing when forked
+# baseurl & url changed for testing when forked
 #
 baseurl: "/amchagas" #"/compiled_site/" # the subpath of your site, e.g. /blog
 url: "http://gooshie.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
