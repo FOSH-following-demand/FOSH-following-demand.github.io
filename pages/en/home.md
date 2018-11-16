@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+permalink: /en/home/
 lang: en
 ref: home
 #order: 0
