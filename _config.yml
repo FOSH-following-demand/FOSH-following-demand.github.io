@@ -22,14 +22,17 @@ description: " Hi! This is the landing page for the Building FOSH followind dema
  
 
 
-#
-# baseurl & url changed for testing when forked
-#
-baseurl: "/amchagas" #"/compiled_site/" # the subpath of your site, e.g. /blog
-url: "http://gooshie.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#
-# setting url breaks it for testing when forked
-#
+#======================================================
+# baseurl & url must be changed for testing when forked
+#======================================================
+# baseurl: ""
+# url: "https://FOSH-following-demand.github.io"
+#======================================================
+baseurl: "/amchagas"
+url: "http://gooshie.github.io"
+#======================================================
+# baseurl & url must be changed for testing when forked
+#======================================================
 
 
 
@@ -57,7 +60,7 @@ t:
       url: "/en/home"
     about:
       name: "About"
-      url: "/en/about/"
+      url: "/en/about"
     collaborating:
       name: "Collaborating"
       url: "/en/collaborating"
@@ -74,7 +77,7 @@ t:
       url: "/pt/inicio"
     about:
       name: "Sobre"
-      url: "/pt/sobre/"
+      url: "/pt/sobre"
     collaborating:
       name: "Colaboracao"
       url: "/pt/colaboracao"
