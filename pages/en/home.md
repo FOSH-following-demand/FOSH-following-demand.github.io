@@ -1,4 +1,5 @@
 ---
+redirect_from: "/"
 layout: page
 title: Home
 permalink: /en/home/
