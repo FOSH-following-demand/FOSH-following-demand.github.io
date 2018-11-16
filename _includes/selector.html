@@ -1,5 +1,3 @@
-{% comment %}
-this is commented out<p>{{ page.url }}</p>
 
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -7,14 +5,10 @@ this is commented out<p>{{ page.url }}</p>
     <a href="{{ post.url | relative_url }}" class="{{ post.lang }}">{{ post.lang }}</a>
 
 {% endfor %}
-{% endcomment %}
-
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-
-  {% if page.url != "/" %}
-     <a href="{{ page.url | relative_url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  {% endif %}
-
+    {% if page.url != "/" %}
+        <a href="{{ page.url | relative_url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    {% endif %}
 {% endfor %}
