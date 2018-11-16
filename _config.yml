@@ -20,7 +20,8 @@ description: " Hi! This is the landing page for the Building FOSH followind dema
  Here you'll find news, results and information on how to collaborate with this project."
  
  
- 
+ gems:
+  - jekyll-redirect-from
 #
 # setting url breaks it for testing when forked
 #
