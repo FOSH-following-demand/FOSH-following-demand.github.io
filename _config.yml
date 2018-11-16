@@ -18,8 +18,23 @@ title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
 description: " Hi! This is the landing page for the Building FOSH followind demand project.#
  Here you'll find news, results and information on how to collaborate with this project."
-baseurl: "" #"/compiled_site/" # the subpath of your site, e.g. /blog
-url: "https://FOSH-following-demand.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+ 
+ 
+
+
+#======================================================
+# baseurl & url must be changed for testing when forked
+#======================================================
+# baseurl: ""
+# url: "https://FOSH-following-demand.github.io"
+#======================================================
+baseurl: "/amchagas"
+url: "http://gooshie.github.io"
+#======================================================
+# baseurl & url must be changed for testing when forked
+#======================================================
+
+
 
 twitter_username: "Chagas_am"
 github_username:  "amchagas"
@@ -45,7 +60,7 @@ t:
       url: "/en/home"
     about:
       name: "About"
-      url: "/en/about/"
+      url: "/en/about"
     collaborating:
       name: "Collaborating"
       url: "/en/collaborating"
@@ -62,7 +77,7 @@ t:
       url: "/pt/inicio"
     about:
       name: "Sobre"
-      url: "/pt/sobre/"
+      url: "/pt/sobre"
     collaborating:
       name: "Colaboracao"
       url: "/pt/colaboracao"

@@ -1,4 +1,4 @@
 
   {% for menu in site.t[page.lang] %}
-    <a href="{{ menu[1].url }}">{{ menu[1].name  }}</a>
+    <a href="{{ menu[1].url | relative_url }}">{{ menu[1].name  }}</a>
   {% endfor %}
