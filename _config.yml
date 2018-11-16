@@ -24,8 +24,8 @@ description: " Hi! This is the landing page for the Building FOSH followind dema
 #
 # setting url breaks it for testing when forked
 #
-baseurl: "" #"/compiled_site/" # the subpath of your site, e.g. /blog
-url: "http://gooshie.me/amchagas" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/amchagas" #"/compiled_site/" # the subpath of your site, e.g. /blog
+url: "http://gooshie.github.io" #"https://amchagas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #
 # setting url breaks it for testing when forked
 #
