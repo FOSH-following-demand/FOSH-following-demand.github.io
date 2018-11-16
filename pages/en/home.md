@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Home
-redirect_from:
-  - /
 permalink: /en/home/
 lang: en
 ref: home
