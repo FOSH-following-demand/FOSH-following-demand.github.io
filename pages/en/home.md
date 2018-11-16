@@ -10,7 +10,7 @@ ref: home
 
 ### Hi! welcome to the home of the Build FOSH following demand project.
 
-<h3>To find out what this is all about, click <a href="{{ /en/about | relative_url }}">here</a></h3>
+<h3>To find out what this is all about, click <a href="{{ "/en/about" | relative_url }}">here</a></h3>
 
 ### To ensure collaborator and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
 
