@@ -1,5 +1,5 @@
 {% comment %}
-this is commented out
+this is commented out<p>{{ page.url }}</p>
 
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -12,8 +12,8 @@ this is commented out
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-<p>{{ page.url }}</p>
-  {% if page.url != site.baseurl or page.url != "/" %}
+
+  {% if page.url != "/" %}
      <a href="{{ page.url | relative_url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   {% endif %}
 
