@@ -1,5 +1,5 @@
 ---
-redirect_from: "/index.md"
+redirect_from: "../../index.md"
 layout: page
 title: Home
 permalink: /en/home/
