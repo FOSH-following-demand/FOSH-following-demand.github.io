@@ -7,18 +7,15 @@
 {% endfor %}
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% assign Language = "" %}
 {% for page in pages %}
     {% if page.url != "/" %}
         {% case page.lang %}
-{% comment %}
             {% when 'en' %}
-                Language = "English"
-{% endcomment %}
+                {% assign Language = "English" %}
             {% when 'pt' %}
-                Language = "Portuguese"
+                {% assign Language = "Portuguese" %}
             {% else %}
-                Language = page.lang
+                {% assign Language = page.lang %}
         {% endcase %}
         <a href="{{ page.url | relative_url }}" class="{{ page.lang }}">{{ Language }}</a>
     {% endif %}
