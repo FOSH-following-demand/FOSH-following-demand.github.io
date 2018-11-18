@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborating
-permalink: /en/collaborating/
+permalink: /en/collaborating
 lang: en
 ref: collaborating
 #order: 4
