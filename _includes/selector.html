@@ -5,7 +5,7 @@
     <a href="{{ post.url | relative_url }}" class="{{ post.lang }}">{{ post.lang }}</a>
 
 {% endfor %}
-<style>a.active {color: white;background-color: #4CAF50;}</style>
+
 {% assign parent_page_lang=page.lang %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
