@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inicio
-permalink: /pt/inicio/
+permalink: /pt/inicio
 lang: pt
 ref: home
 #order: 5
