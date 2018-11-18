@@ -16,8 +16,8 @@
 
 title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
-description: " Hi! This is the landing page for the Building FOSH followind demand project.#
- Here you'll find news, results and information on how to collaborate with this project."
+description: " Hi! This is the landing page for the Building FOSH followind demand project.
+Here you'll find news, results and information on how to collaborate with this project."
  
  
 
@@ -73,7 +73,7 @@ t:
 
   pt:
     home:
-      name: "início"
+      name: "Início"
       url: "/pt/inicio"
     about:
       name: "Sobre"
