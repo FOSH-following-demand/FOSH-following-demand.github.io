@@ -16,20 +16,19 @@
 
 title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
-description: " Hi! This is the landing page for the Building FOSH followind demand project.#
- Here you'll find news, results and information on how to collaborate with this project."
+description: " Hi! This is the landing page for the Building FOSH followind demand project. Here you'll find news, results and information on how to collaborate with this project."
  
- 
+
 
 
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
-# baseurl: ""
-# url: "https://FOSH-following-demand.github.io"
+baseurl: ""
+url: "https://FOSH-following-demand.github.io"
 #======================================================
-baseurl: "/amchagas"
-url: "http://gooshie.github.io"
+# baseurl: "/amchagas"
+# url: "http://gooshie.github.io"
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
@@ -73,7 +72,7 @@ t:
 
   pt:
     home:
-      name: "início"
+      name: "Início"
       url: "/pt/inicio"
     about:
       name: "Sobre"

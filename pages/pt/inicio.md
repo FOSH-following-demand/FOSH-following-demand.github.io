@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inicio
-permalink: /pt/inicio/
+permalink: /pt/inicio
 lang: pt
 ref: home
 #order: 5
@@ -9,7 +9,6 @@ ref: home
 
 
 ### Olá! Bem vindo a
-
 
 
 <h3>Para aprender sobre esse projeto, clique  <a href="{{ "/pt/sobre" | relative_url }}">aqui</a></h3>
@@ -20,7 +19,7 @@ ref: home
 
 ![Mozilla Foundation](https://github.com/amchagas/media-for-reps/blob/master/logos/mozilla-logo-bw-rgb.png?raw=true)|![Wikimedia Deutschland](https://github.com/amchagas/media-for-reps/blob/master/logos/freieswissen.png?raw=true)|![Prometheus Science](https://github.com/amchagas/media-for-reps/blob/master/logos/logo1.png?raw=true)
 ---|---|---
-![Rede de Pesquisadores](https://github.com/amchagas/media-for-reps/blob/master/logos/university_of_sussex.jpeg?raw=true)|  ![Trend in Africa](https://github.com/amchagas/media-for-reps/blob/master/logos/TReND%20logo.png?raw=true)|![Baden Lab](https://github.com/amchagas/media-for-reps/blob/master/logos/badenlab.png?raw=true)
+![Rede de Pesquisadores](https://github.com/amchagas/media-for-reps/blob/master/logos/logo_rede_horizontal_cor.png?raw=true)|  ![Trend in Africa](https://github.com/amchagas/media-for-reps/blob/master/logos/TReND%20logo.png?raw=true)|![Baden Lab](https://github.com/amchagas/media-for-reps/blob/master/logos/badenlab.png?raw=true)
 ![University of Sussex](https://github.com/amchagas/media-for-reps/blob/master/logos/university_of_sussex.jpeg?raw=true) |
 
 
