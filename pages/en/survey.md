@@ -17,4 +17,10 @@ Here is the English version of the Survey, it should take no more then 7 minutes
 {% endraw %}
 
 
->contact form.
+
+{% raw %}
+ <div class="scratch-preview">
+  <iframe src="https://goo.gl/forms/FhR33bynWzwPb4DU2" width="640" height="593" frameborder="0" marginheight="0" marginwidth="0">
+  </iframe>
+ </div>
+{% endraw %}
