@@ -23,11 +23,11 @@ description: " Hi! This is the landing page for the Building FOSH followind dema
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
-baseurl: ""
-url: "https://FOSH-following-demand.github.io"
+# baseurl: ""
+# url: "https://FOSH-following-demand.github.io"
 #======================================================
-# baseurl: "/amchagas"
-# url: "http://gooshie.github.io"
+baseurl: "/amchagas"
+url: "http://gooshie.github.io"
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
