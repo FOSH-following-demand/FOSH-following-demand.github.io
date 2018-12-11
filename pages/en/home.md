@@ -8,25 +8,49 @@ ref: home
 ---
 
 
-### Hi! welcome to the home of the Build FOSH following demand project.
+<br>
+
+## Hi! welcome to the home of the Build FOSH following demand project.
 
 
-### To find out what this is all about, click [here](/en/about)
+<br>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are conducting an online survey to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments. This is the first part of a longer project to develop open source tools for science and education.
+
+- #### Here is the [roadmap](https://github.com/orgs/FOSH-following-demand/projects/2) showing where we want to go.    
+
+<br>
 
 
-<h3>To find out what this is all about, click <a href="{{ "/en/about" | relative_url }}">here</a></h3>
+- #### To read more details about the project, [click here](https://fosh-following-demand.github.io/en/about)
+<br>
 
-### To ensure collaborator and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
+- #### To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
+<br>
 
-### This project is supported by:
+- #### To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
+
+
+<br>
+
+## Collaborating:
+
+- #### There are several ways to collaborate to this project! please find them listed on the [collaborating page](https://fosh-following-demand.github.io/en/collaborating)
+
+
+- #### To ensure collaborators and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
+
+
+<br>
+<br>
+
+## This project is supported by:
 
 ![Mozilla Foundation](https://github.com/amchagas/media-for-reps/blob/master/logos/mozilla-logo-bw-rgb.png?raw=true)|![Wikimedia Deutschland](https://github.com/amchagas/media-for-reps/blob/master/logos/freieswissen.png?raw=true)|![Prometheus Science](https://github.com/amchagas/media-for-reps/blob/master/logos/logo1.png?raw=true)
 ---|---|---
 ![Rede de Pesquisadores](https://github.com/amchagas/media-for-reps/blob/master/logos/logo_rede_horizontal_cor.png?raw=true)|  ![Trend in Africa](https://github.com/amchagas/media-for-reps/blob/master/logos/TReND%20logo.png?raw=true)|![Baden Lab](https://github.com/amchagas/media-for-reps/blob/master/logos/badenlab.png?raw=true)
 ![University of Sussex](https://github.com/amchagas/media-for-reps/blob/master/logos/university_of_sussex.jpeg?raw=true) |
 
+<br>
+
 ### This is an open source project, here is its [licence](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE)
-
-### collaborating:
-
-Check the Menu on the top of the page to see it in different languages.(if you want to collaborate with a different language, please get in touch (andremaia.chagas[at]gmail.com), or send it as a [pull request]())
