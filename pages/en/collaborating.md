@@ -27,6 +27,8 @@ ref: collaborating
    - #### If you would like to translate it to your language and you are familiar with Git systems, just fork this repo, translate the pages in a separate folder and make a pull request. If you are not familiar, drop us a line! we can get you up and going in no time! andremaia[at]mozillafoundation.org
 
    <br>
+
+- ### More issues around the website can be found directly on the [repository](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues).
    <br>
 
 ## Issues around the [survey](https://github.com/FOSH-following-demand/map_fosh_demand):
@@ -43,6 +45,7 @@ ref: collaborating
  - ### Is your language not listed here?  - No worries!
    - #### If you would like to translate it to your language and you are familiar with Git systems, just fork this repo, translate the pages in a separate folder and make a pull request. If you are not familiar, drop us a line! we can get you up and going in no time! andremaia[at]mozillafoundation.org
 
+- ### More issues around the survey can be found directly on the [repository](https://github.com/FOSH-following-demand/map_fosh_demand/issues).
 
  <br>
 
