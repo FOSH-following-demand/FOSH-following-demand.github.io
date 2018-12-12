@@ -6,8 +6,11 @@ lang: en
 ref: survey
 ---
 
+#### Here is the English version of the Survey, it should take no more then 7 minutes to complete it. If you want to be updated on the results of this survey, please scroll down to the end of the page and fill out the [contact form](#contact form).
 
-Here is the English version of the Survey, it should take no more then 7 minutes to complete it. If you want to be updated on the results of this survey, please scroll down to the end of the page and fill out the contact form.
+<br>
+
+
 
 {% raw %}
  <div class="scratch-preview">
@@ -18,7 +21,11 @@ Here is the English version of the Survey, it should take no more then 7 minutes
 
 
 
-### contact form:
+<br>
+<br>
+
+### <a name="contact form"></a> __Contact form__:
+
 
 {% raw %}
  <div class="scratch-preview">
