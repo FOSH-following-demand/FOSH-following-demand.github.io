@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Questionario
+title: Questionário
 permalink: /pt/questionario
 lang: pt
 ref: survey
