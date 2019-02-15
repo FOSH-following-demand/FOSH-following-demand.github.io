@@ -17,6 +17,9 @@ ref: survey
 {% endraw %}
 -->
 
+[Versão em Português](
+http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=pt-BR)
+
 [Versão em inglês](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
 
 [Versão em espanhol](
