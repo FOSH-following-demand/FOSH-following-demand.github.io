@@ -6,6 +6,7 @@ lang: pt
 ref: survey
 ---
 
+#### Abaixo está a versão em Português do questionário. Preenche-lo deve demorar menos de 10 minutos!
 
 {% raw %}
  <div class="scratch-preview">
@@ -13,3 +14,23 @@ ref: survey
   </iframe>
  </div>
 {% endraw %}
+
+
+[Versão em inglês](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
+
+[Versão em espanhol](
+http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=es)
+
+
+[Versão em Alemão](
+http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=de)
+
+[Versão em Francês](
+http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=fr)
+
+<br>
+
+#### Caso queira receber notícias sobre esse projeto e as informações obtidas através do questionário, por favor preencha o formulário abaixo:
+
+[English version](
+http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
