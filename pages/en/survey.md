@@ -10,10 +10,10 @@ ref: survey
 
 
 {% raw %}
- <div class="scratch-preview">
- <iframe src="http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en" width="640" height="800" frameborder="1" marginheight="0" marginwidth="0">
+
+ <iframe src="http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">
  </iframe>
-</div>
+
 {% endraw %}
 
 
