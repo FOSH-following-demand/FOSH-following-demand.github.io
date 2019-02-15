@@ -88,6 +88,8 @@ The current list of labels are [here][link_labels] and include:
     Please try to make sure that your enhancement is distinct from any others that have already been requested or implemented.
     If you find one that's similar but there are subtle differences please reference the other request in your issue.
 
+* [![Good First Issue](https://img.shields.io/badge/Good%20First%20Issue--brightgreen.svg)][link_goodfirstissue] *These issues are good places for new comers to test the waters and start contributing.*
+
 
 ## Making a change
 
@@ -142,29 +144,13 @@ If you're still working on the pull request that prefix would be **[WIP, TST, DO
 
 ## Style Guide
 
-Docstrings should follow [numpydoc][link_numpydoc] convention.
 We encourage extensive documentation.
 
-The python code itself should follow [PEP8][link_pep8] convention
-whenever possible, with at most about 500 lines of code (not including docstrings) per script.
+The website is developed using [Jekyll](https://jekyllrb.com/), in the same website you'll find a [tutorial section](https://jekyllrb.com/tutorials/home/) which shows 
+people how to get started, if you never worked with this system.
 
-Our documentation is written in [ReStructuredText](#writing-in-restructuredtext),
-which we explain in more detail below.
 
-### Writing in ReStructuredText
 
-The documentation for `FOSH-following-demand` is written using [ReStructuredText][restructuredtext].
-Using this markup language allows us to create an online site using the [Sphinx][sphinx]
-documentation generator.
-We then host the generated Sphinx site on [ReadTheDocs][readthedocs],
-to provide an easily accessible space for accessing `FOSH-following-demand` documentation.
-
-What this means is that we need to add any updates to the documentation in ReStructuredText,
-or `rst`.
-The resulting text looks slightly different from the markdown formatting you'll
-[use on github](#contributing-through-github), but we're excited to help you get started!
-Here's [one guide we've found particularly helpful][link_rst_guide] for starting with `rst`.
-And, if you have any questions, please don't hesitate to ask!
 
 
 ## Recognizing contributors
