@@ -188,7 +188,7 @@ You're awesome. :wave::smiley:
 [link_bugs]: https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/labels/bug
 [link_helpwanted]: https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/labels/help%20wanted
 [link_enhancement]: https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/labels/enhancement
-
+[link_goodfirstissue]: https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 [link_kanban]: https://en.wikipedia.org/wiki/Kanban_board
 [link_pullrequest]: https://help.github.com/articles/creating-a-pull-request/
 [link_fork]: https://help.github.com/articles/fork-a-repo/
