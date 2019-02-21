@@ -30,3 +30,21 @@ $('div.modal').on('show.bs.modal', function() {
   }
 });
 
+$('.infiniteScrollContainer').infiniteScroll({
+  append: '.infiniteScrollContainer',
+  // history: false,
+  path: function () {
+    var inlinePageList = [
+      'home',
+      'about',
+      'collaborating',
+      'map',
+      'survey',
+    ];
+
+    if (this.loadCount < inlinePageList.length) {
+      return inlinePageList[this.loadCount] + '.html';
+    }
+    return false;
+  }
+});

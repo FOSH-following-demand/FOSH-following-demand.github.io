@@ -4,7 +4,9 @@
 
 	<body>
 		{% include header.html %}
-		{{ content }}
+		<div class="container infiniteScrollContainer">
+			{{ content }}
+		</div>
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}
