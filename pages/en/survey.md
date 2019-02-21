@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Survey
 permalink: /en/survey
 lang: en

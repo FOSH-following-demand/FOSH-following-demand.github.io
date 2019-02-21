@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Sobre
 permalink: /pt/sobre
 ref: about

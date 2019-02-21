@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Inicio
 permalink: /pt/inicio
 lang: pt
