@@ -1,0 +1,23 @@
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+
+{% for post in posts %}
+  <li><a href="{{ post.url | relative_url }}" class="{{ post.lang }}">{{ post.lang }}</a></li>
+{% endfor %}
+
+{% assign parent_page_lang=page.lang %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+
+{% for page in pages %}
+  {% if page.url != "/" %}
+    <li><a href="{{ page.url | relative_url }}" {% if parent_page_lang==page.lang %}class="active" {% endif %}>
+      {% case page.lang %}
+        {% when 'en' %}
+          English
+        {% when 'pt' %}
+          Portuguese
+        {% else %}
+          {{ page.lang }}
+      {% endcase %}
+    </a></li>
+  {% endif %}
+{% endfor %}
