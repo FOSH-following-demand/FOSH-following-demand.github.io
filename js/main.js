@@ -1,22 +1,31 @@
+var navbarHeight = $('.navbar').height();
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
-  $('a.page-scroll').bind('click', function(event) {
-    var $anchor = $(this);
+$('.page-scroll').click(function(event) {
+  var $anchor = $(this);
+  var scrollToElement = $($anchor.attr('href'));
+
+  if (scrollToElement.offset()) {
+    var offset = 32;
+
     $('html, body').stop().animate({
-      scrollTop: $($anchor.attr('href')).offset().top
+      scrollTop: scrollToElement.offset().top - navbarHeight - offset
     }, 1500, 'easeInOutExpo');
-    event.preventDefault();
-  });
+    // setTimeout(function() {
+    // }, 300, 1)
+  }
+
+  event.preventDefault();
 });
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
-  target: '.navbar-fixed-top'
+  target: '.navbar-nav',
+  offset: $('.navbar').height() + $('.navbar').height()
 })
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
-  $('.navbar-toggle:visible').click();
+  $('.navbar-toggler:visible').click();
 });
 
 $('div.modal').on('show.bs.modal', function() {
@@ -32,10 +41,10 @@ $('div.modal').on('show.bs.modal', function() {
 
 $('.infiniteScrollContainer').infiniteScroll({
   append: '.infiniteScrollContainer',
-  // history: false,
-  path: function () {
+  history: false,
+  prefill: true,
+  path: function() {
     var inlinePageList = [
-      'home',
       'about',
       'collaborating',
       'map',
