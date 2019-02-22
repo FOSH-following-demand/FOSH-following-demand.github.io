@@ -2,11 +2,13 @@
 <html>
 	{% include head.html %}
 
-	<body>
+	<body class="position-relative">
+		{% include navigation.html %}
 		{% include header.html %}
-		<div class="container infiniteScrollContainer">
+		<section class="container infiniteScrollContainer" id="{{ page.title }}">
 			{{ content }}
-		</div>
+			<hr/>
+		</section>
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}

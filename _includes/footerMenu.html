@@ -1,9 +1,0 @@
-{% assign parent_page=page.permalink %}
-{% for menu in site.t[page.lang] %}
-  <li {% if parent_page == menu[1].url %}class="active"{% endif %}>
-    <a class="page-scroll" href="#{{ menu[1].name }}">{{ menu[1].name }}</a>
-  </li>
-  {% if forloop.last == false %}
-    <li class="footer-menu-divider">&sdot;</li>
-  {% endif %}
-{% endfor %}
