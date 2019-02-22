@@ -62,36 +62,36 @@ t:
   en:
     home:
       name: "Home"
-      url: "/en/home"
+      url: "/FOSH-following-demand.github.io/en/home"
     about:
       name: "About"
-      url: "/en/about"
+      url: "/FOSH-following-demand.github.io/en/about"
     collaborating:
       name: "Collaborating"
-      url: "/en/collaborating"
+      url: "/FOSH-following-demand.github.io/en/collaborating"
     map:
       name: "Map"
-      url: "/en/map"
+      url: "/FOSH-following-demand.github.io/en/map"
     survey:
       name: "Survey"
-      url: "/en/survey"
+      url: "/FOSH-following-demand.github.io/en/survey"
 
   pt:
     home:
       name: "Início"
-      url: "/pt/inicio"
+      url: "/FOSH-following-demand.github.io/pt/inicio"
     about:
       name: "Sobre"
-      url: "/pt/sobre"
+      url: "/FOSH-following-demand.github.io/pt/sobre"
     collaborating:
       name: "Colaboracao"
-      url: "/pt/colaboracao"
+      url: "/FOSH-following-demand.github.io/pt/colaboracao"
     map:
       name: "Mapa"
-      url: "/pt/mapa"
+      url: "/FOSH-following-demand.github.io/pt/mapa"
     survey:
       name: "Questionario"
-      url: "/pt/questionario"
+      url: "/FOSH-following-demand.github.io/pt/questionario"
 #language support
 #languages: ["en", "pt_BR"]
 #default_lang: "en"
