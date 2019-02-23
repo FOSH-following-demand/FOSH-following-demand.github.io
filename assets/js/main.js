@@ -66,12 +66,11 @@ $(function() {
         {%- if translation and page.ref != "home" -%}
           {
             lang: '{{ page.lang }}',
-            url: '{{ translation.url }}',
+            url: '{{ translation.url | relative_url }}',
           },
         {%- endif -%}
       {%- endfor -%}
     ];
-
 
     // Get an array of page urls in the activeLanguage
     var pages = jekyllPages.filter(page => page.lang == activeLanguage).map(page => page.url)
