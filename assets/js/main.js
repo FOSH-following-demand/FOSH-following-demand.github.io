@@ -10,14 +10,14 @@ $(function() {
   var scrollOffset = 32;
   var infiniteScrollContainer = $('.infiniteScrollContainer')
 
-  // initialize infiniteScroll
+  // Initialize infiniteScroll
   infiniteScrollContainer.infiniteScroll({
     append: '.infiniteScrollContainer',
     history: false,
     path: pageList
   });
 
-  // resumes page scroll after appending new items
+  // Resume page scroll by re-clicking after appending new items
   infiniteScrollContainer.on('append.infiniteScroll', function(event, response, path, items) {
     if (clickedAnchor) {
       clickedAnchor.click();
@@ -29,7 +29,7 @@ $(function() {
     var $anchor = $(this);
     var scrollToElement = $($anchor.attr('href'));
 
-    // check if element exists on page yet
+    // Check if element exists on page yet
     if (scrollToElement && scrollToElement.offset()) {
       clickedAnchor = null
 
@@ -37,7 +37,7 @@ $(function() {
         scrollTop: scrollToElement.offset().top - navbarHeight - scrollOffset
       }, 1500, 'easeInOutExpo');
     } else {
-      // save a reference to this anchor and load the next page
+      // Save a reference to this anchor and load the next page
       clickedAnchor = $anchor;
       infiniteScrollContainer.infiniteScroll('loadNextPage');
     }
@@ -57,16 +57,16 @@ $(function() {
   });
 
   function pageList() {
-    // Create a javascript object from Jekyll with all the pages in site.t
+    // Create an array from Jekyll of all the page name translations in _config.yml
     var jekyllPages = [
       {%- for page in site.pages -%}
-      {%- assign translation = site.t[page.lang][page.ref] -%}
-      {%- if translation -%}
-      {
-        lang: '{{ page.lang }}',
-        url: '{{ translation.url }}',
-      },
-      {%- endif -%}
+        {%- assign translation = site.t[page.lang][page.ref] -%}
+        {%- if translation -%}
+          {
+            lang: '{{ page.lang }}',
+            url: '{{ translation.url }}',
+          },
+        {%- endif -%}
       {%- endfor -%}
     ];
 
