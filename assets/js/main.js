@@ -4,11 +4,12 @@
 //       they allow Jekyll to process and write to this file
 
 $(function() {
-  // Only get the collapsed navbar height once
+  // Only need the collapsed navbar height once
   var navbarHeight = $('.navbar').height();
+  var infiniteScrollContainer = $('.infiniteScrollContainer')
+  var activeLanguage = $('#languageDropdown .active').attr('id')
   var clickedAnchor = null;
   var scrollOffset = 32;
-  var infiniteScrollContainer = $('.infiniteScrollContainer')
 
   // Initialize infiniteScroll
   infiniteScrollContainer.infiniteScroll({
@@ -59,9 +60,10 @@ $(function() {
   function pageList() {
     // Create an array from Jekyll of all the page name translations in _config.yml
     var jekyllPages = [
-      {%- for page in site.pages -%}
+      {%- assign sortedPages = site.pages | sort: "ref" -%}
+      {%- for page in sortedPages -%}
         {%- assign translation = site.t[page.lang][page.ref] -%}
-        {%- if translation -%}
+        {%- if translation and page.ref != "home" -%}
           {
             lang: '{{ page.lang }}',
             url: '{{ translation.url }}',
@@ -70,7 +72,6 @@ $(function() {
       {%- endfor -%}
     ];
 
-    var activeLanguage = $('#languageDropdown .active').attr('id')
 
     // Get an array of page urls in the activeLanguage
     var pages = jekyllPages.filter(page => page.lang == activeLanguage).map(page => page.url)
@@ -78,7 +79,5 @@ $(function() {
     if (this.loadCount < pages.length) {
       return pages[this.loadCount];
     }
-
-    return false;
   }
 });
