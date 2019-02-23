@@ -22,14 +22,16 @@ copyright: 'Copyright &copy; 2019 FOSH All Rights Reserved.'
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
-baseurl: "/"
-url: "https://FOSH-following-demand.github.io"
+# baseurl: "/"
+# url: "https://FOSH-following-demand.github.io"
 #======================================================
 # baseurl: "/"
 # url: "http://localhost:4000"
+baseurl: "/FOSH-following-demand.github.io/"
+url: "https://chpmnrssll.github.io"
 #======================================================
 # baseurl: "/amchagas/"
-# url: "http://gooshie.github.io"
+# url: "https://gooshie.github.io"
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
