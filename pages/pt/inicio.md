@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Inicio
-subTitle: Building FOSH following demand
+subTitle: Construindo o FOSH seguindo a demanda
 permalink: /pt/inicio
 lang: pt
 ref: home
 #order: 5
 ---
-
 
 ### Olá! Bem vindo a
 

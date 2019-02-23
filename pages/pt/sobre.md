@@ -4,12 +4,8 @@ title: Sobre
 permalink: /pt/sobre
 ref: about
 lang: pt
-
 #order: 6
 ---
-
-
-
 
 Olá! Bem vindo ao projeto Mapeando e Construindo equipamento de laboratório sob licenças abertas
 
