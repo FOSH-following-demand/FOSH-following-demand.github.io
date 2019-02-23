@@ -18,7 +18,6 @@ title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
 description: " Hi! This is the landing page for the Building FOSH followind demand project. Here you'll find news, results and information on how to collaborate with this project."
 copyright: 'Copyright &copy; 2019 FOSH All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 #======================================================
 # baseurl & url must be changed for testing when forked
@@ -26,10 +25,8 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # baseurl: "/"
 # url: "https://FOSH-following-demand.github.io"
 #======================================================
-# baseurl: "/"
-# url: "http://localhost:4000"
-baseurl: "/FOSH-following-demand.github.io/"
-url: "https://chpmnrssll.github.io"
+baseurl: "/"
+url: "http://localhost:4000"
 #======================================================
 # baseurl: "/amchagas/"
 # url: "http://gooshie.github.io"
@@ -49,8 +46,8 @@ highlighter: rouge
 safe: False
 # Build settings
 markdown: kramdown
-theme: minima
-#theme: jekyll-theme-leap-day
+# theme: minima
+# theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -62,36 +59,36 @@ t:
   en:
     home:
       name: "Home"
-      url: "/FOSH-following-demand.github.io/en/home"
+      url: "/en/home"
     about:
       name: "About"
-      url: "/FOSH-following-demand.github.io/en/about"
+      url: "/en/about"
     collaborating:
       name: "Collaborating"
-      url: "/FOSH-following-demand.github.io/en/collaborating"
+      url: "/en/collaborating"
     map:
       name: "Map"
-      url: "/FOSH-following-demand.github.io/en/map"
+      url: "/en/map"
     survey:
       name: "Survey"
-      url: "/FOSH-following-demand.github.io/en/survey"
+      url: "/en/survey"
 
   pt:
     home:
       name: "Início"
-      url: "/FOSH-following-demand.github.io/pt/inicio"
+      url: "/pt/inicio"
     about:
       name: "Sobre"
-      url: "/FOSH-following-demand.github.io/pt/sobre"
+      url: "/pt/sobre"
     collaborating:
       name: "Colaboracao"
-      url: "/FOSH-following-demand.github.io/pt/colaboracao"
+      url: "/pt/colaboracao"
     map:
       name: "Mapa"
-      url: "/FOSH-following-demand.github.io/pt/mapa"
+      url: "/pt/mapa"
     survey:
       name: "Questionario"
-      url: "/FOSH-following-demand.github.io/pt/questionario"
+      url: "/pt/questionario"
 #language support
 #languages: ["en", "pt_BR"]
 #default_lang: "en"
