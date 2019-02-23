@@ -1,7 +1,7 @@
 ---
 ---
 // NOTE: Do not remove the frontmatter dashes above,
-//       they allow Jekyll to process and write to this file
+//       they allow Jekyll to pre-process and write to this file
 
 $(function() {
   // Only need the collapsed navbar height once
@@ -66,7 +66,7 @@ $(function() {
         {%- if translation and page.ref != "home" -%}
           {
             lang: '{{ page.lang }}',
-            url: '{{ translation.url | relative_url }}',
+            url: '{{ site.url }}{{ site.baseurl }}{{ translation.url }}',
           },
         {%- endif -%}
       {%- endfor -%}
