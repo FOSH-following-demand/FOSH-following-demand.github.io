@@ -1,0 +1,19 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+	{% include head.html %}
+
+	<body class="position-relative">
+		{% include navigation.html %}
+		{% include header.html %}
+		<section class="container infiniteScrollContainer" id="{{ site.t[page.lang][page.ref].name }}">
+			{{ content }}
+			<hr/>
+		</section>
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
