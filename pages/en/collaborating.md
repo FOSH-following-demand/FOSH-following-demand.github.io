@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Collaborating
 permalink: /en/collaborating
 lang: en

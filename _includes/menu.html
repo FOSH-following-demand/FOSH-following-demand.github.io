@@ -1,0 +1,4 @@
+{% assign parent_page=page.permalink %}
+  {% for menu in site.t[page.lang] %}
+    <a href="{{ menu[1].url | relative_url }}" {% if parent_page == menu[1].url %}class="active"{% endif %}>{{ menu[1].name }}</a>
+  {% endfor %}
