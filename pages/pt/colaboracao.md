@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Colaboraçao
 permalink: /pt/colaboracao
 lang: pt

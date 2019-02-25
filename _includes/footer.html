@@ -1,0 +1,21 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="row">
+          {% assign parent_page=page.permalink %}
+          {% for menu in site.t[page.lang] %}
+            <a class="page-scroll small" href="#{{ menu[1].name }}">{{ menu[1].name }}</a>
+            {% if forloop.last == false %}
+              <span class="mx-2">&sdot;</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+        <p class="mt-2 text-muted small">{{ site.copyright }}</p>
+      </div>
+      <div class="col-md-4">
+        <p class="small">{{ site.description }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

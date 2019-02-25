@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Map
 permalink: /en/map
 lang: en
