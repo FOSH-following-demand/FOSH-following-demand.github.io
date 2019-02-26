@@ -12,7 +12,7 @@ ref: home
 <div class="container">
   <div class="row">
     <div class="col d-flex flex-column justify-content-center">
-    <img class="img-fluid" alt="Mozilla Foundation" src="https://github.com/amchagas/media-for-reps/blob/master/logos/mozilla-logo-bw-rgb.png?raw=true" />
+    <h4>Hi! welcome to the landing page of our project!</h1>
     </div>
   </div>
  </div>
