@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-subTitle: Building FOSH following demand
+subTitle: Building science and education tools people need.
 permalink: /en/home
 lang: en
 ref: home
@@ -9,30 +9,38 @@ ref: home
 ---
 
 
-<br>
-
-## Hi! welcome to the home of the Build FOSH following demand project.
-
-
-<br>
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are conducting an online survey to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments. This is the first part of a longer project to develop open source tools for science and education.
-
-- #### Here is the [roadmap](https://github.com/orgs/FOSH-following-demand/projects/2) showing where we want to go.    
+<div class="container">
+  <div class="row">
+    <div class="col d-flex flex-column justify-content-center">
+    <img class="img-fluid" alt="Mozilla Foundation" src="https://github.com/amchagas/media-for-reps/blob/master/logos/mozilla-logo-bw-rgb.png?raw=true" />
+    </div>
+  </div>
+ </div>
 
 <br>
 
+## Hi! welcome to the landing page of our project!
 
-- #### To read more details about the project, [click here](https://fosh-following-demand.github.io/en/about)
-<br>
-
-- #### To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
-<br>
-
-- #### To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
-
+### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open souce!
 
 <br>
+
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our first step is to conduct online surveys to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+
+<br>
+
+- Here is the [roadmap](https://github.com/orgs/FOSH-following-demand/projects/2) showing where we want to go.    
+
+- To read more details about the project, [click here](https://fosh-following-demand.github.io/en/about)
+
+- To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
+
+- To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
+
+
+<br>
+
+---
 
 ## Collaborating:
 
@@ -43,12 +51,15 @@ ref: home
 
 
 <br>
-<br>
 
+
+---
 
 ### This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).
 
 <br>
+
+---
 
 ## This project is supported by:
 

@@ -21,7 +21,7 @@ ref: about
     - ....
 
 
-
+---
 
 ### Here is the longer version:
 
@@ -36,6 +36,7 @@ ref: about
 
   -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
 
+---
 
 This website was built using:
 
