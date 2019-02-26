@@ -11,8 +11,9 @@ ref: home
 
 <div class="container">
   <div class="row">
+
     <div class="col d-flex flex-column justify-content-center">
-    <h4>Hi! welcome to the landing page of our project!</h1>
+    <h4> Hi! welcome to the landing page of our project!</h4>
     </div>
   </div>
  </div>
