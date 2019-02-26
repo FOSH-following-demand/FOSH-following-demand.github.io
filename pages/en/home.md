@@ -9,30 +9,17 @@ ref: home
 ---
 
 
-<div class="container">
-  <div class="row">
-
-    <div class="col d-flex flex-column justify-content-center">
-    <h4> Hi! welcome to the landing page of our project!</h4>
-    </div>
-
-    <div class="col d-flex flex-column justify-content-center">
-    <h4> test </h4>
-    </div>
-
-
-  </div>
- </div>
 
 <br>
 
-## Hi! welcome to the landing page of our project!
+#### Hi! welcome to the landing page of our project!
+<br>
 
-### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open souce!
+ Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open souce!
 
 <br>
 
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our first step is to conduct online surveys to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+####  Our first step is to conduct online surveys to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
 
 <br>
 
