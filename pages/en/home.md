@@ -15,6 +15,12 @@ ref: home
     <div class="col d-flex flex-column justify-content-center">
     <h4> Hi! welcome to the landing page of our project!</h4>
     </div>
+
+    <div class="col d-flex flex-column justify-content-center">
+    <h4> test </h4>
+    </div>
+
+
   </div>
  </div>
 
