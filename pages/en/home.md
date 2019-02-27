@@ -38,7 +38,13 @@ ref: home
 
 ---
 
-## Collaborating:
+---
+
+|COLLAB||
+---|---
+ || |
+
+
 
 - #### There are several ways to collaborate to this project! please find them listed on the [collaborating page](https://fosh-following-demand.github.io/en/collaborating)
 
