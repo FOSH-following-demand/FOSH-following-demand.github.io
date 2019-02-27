@@ -7,9 +7,9 @@ ref: collaborating
 #order: 4
 ---
 
-
-<p> <center> <h1> Collaborating </p>
-
+<div>
+  <p> <center> <h1> Collaborating </p>
+</div>
 
 <br>
 
