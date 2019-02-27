@@ -58,5 +58,3 @@ ref: home
 <br>
 
 ---
-
-## This project is supported by:
