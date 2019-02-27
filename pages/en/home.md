@@ -38,11 +38,7 @@ ref: home
 
 ---
 
----
 
-|COLLAB||
----|---
- || |
 
 
 
@@ -64,5 +60,3 @@ ref: home
 ---
 
 ## This project is supported by:
-
-{% include supportedBy.html %}
