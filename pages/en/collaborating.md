@@ -8,7 +8,8 @@ ref: collaborating
 ---
 
 
-<p style="text-align: center;"> <h1> Collaborating </h2>  </p> 
+<p style="text-align: center;"> <h1> Collaborating
+ 
 #### Currently we are tackling these issues (below) and all help and suggestions are welcome!
 
 <br>
