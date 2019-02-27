@@ -8,9 +8,12 @@ ref: collaborating
 ---
 
 
-<p> <center> <h1> Collaborating 
+<p> <center> <h1> Collaborating </p>
+
 
 <br>
+
+
 
 ## Currently we are tackling these issues (below) and all help and suggestions are welcome!
 
