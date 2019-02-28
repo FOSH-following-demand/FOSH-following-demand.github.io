@@ -16,7 +16,7 @@ ref: about
 <br>
 
 
-### Here is the short version:
+#### Here is the short version:
 
 
 <br>
@@ -27,18 +27,19 @@ ref: about
 
 #### - In order to do research and to train/educate others, scientists/teachers and need access to hardware. Scientific hardware is normally expensive and it doesn't have to be. So we want to find out what people need in terms of equipment and build Open Source versions of them following this demand. The project can be roughly divided into two branches:
 
-#### - [Map demand](https://github.com/FOSH-following-demand/map_fosh_demand)
-#### - Tools being build following demand:
-#### - Shaker
-#### - Microscope
-#### - Sound stimulator
-#### - Thermocycler
-#### - ....
+ - [Map demand](https://github.com/FOSH-following-demand/map_fosh_demand)
+ - Tools being build following demand:
+ - Shaker
+ - Microscope
+ - Sound stimulator
+ - Thermocycler
+ - ....
 
 
 ---
+<br>
 
-### Here is the longer version:
+#### Here is the longer version:
 
  - A lot of the tools used in science are developed (at least their first prototypes/starting ideas) inside universities and laboratories funded with public money. In order to bring these tools to market, these ideas are patented and licensed to a company that will then take all steps necessary (and there are a lot of them) to bring these ideas to a commercial state.
 
@@ -52,9 +53,4 @@ ref: about
   -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
 
 ---
-
-This website was built using:
-
-[Jekyll](https://jekyllrb.com)  
-
-[Jekyll-mapping](https://github.com/matthewowen/jekyll-mapping)
+<br>
