@@ -6,6 +6,13 @@ ref: end
 ---
 
 
+<br>
+
+This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).
+
+---
+
+
 This website was built using:
 
    [Jekyll](https://jekyllrb.com)

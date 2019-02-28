@@ -47,10 +47,10 @@ ref: about
 
  - Trying to remedy this problem, we would like to build Open Source Scientific Hardware, something that is being done by several groups/communities around the globe. A bit different (as far as we know) is that we are trying to map what researchers need and build following these needs, with the rationale that we can maximize the benefits of our efforts by building tools that are needed by a large number of users, so we are dividing this project into steps:
 
-  -  Map the demand (This started as a collaboration between Prometheus Science and "Rede de Pesquisadores", Wikimedia Germany (via the Freieswissen Fellowship) and the Mozilla Foundation (via the Mozilla Fellowship), this project is expected to be completed (at least a first map) by June 2019.
+ -  Map the demand (This started as a collaboration between Prometheus Science and "Rede de Pesquisadores", Wikimedia Germany (via the Freieswissen Fellowship) and the Mozilla Foundation (via the Mozilla Fellowship), this project is expected to be completed (at least a first map) by June 2019.
 
 
-  -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
+ -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
 
 ---
 <br>

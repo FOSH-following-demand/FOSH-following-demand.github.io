@@ -10,6 +10,7 @@ ref: survey
   <h1> Survey </h1>
 </center>
 
+<br>
 
 #### below you can find links to the survey in different languages (please check [collaborating](link) if you would like to contribute with a translation!), it should take no more then 7 minutes to complete it:
 
@@ -30,6 +31,7 @@ ref: survey
 
 [English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
 
+---
 
 <!--
 {% raw %}
