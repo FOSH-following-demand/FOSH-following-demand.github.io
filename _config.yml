@@ -22,11 +22,14 @@ copyright: 'Copyright &copy; 2019 FOSH All Rights Reserved.'
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
-baseurl: "/"
-url: "https://FOSH-following-demand.github.io"
+#baseurl: "/"
+#url: "https://FOSH-following-demand.github.io"
 #======================================================
-# baseurl: "/"
-# url: "http://localhost:4000"
+#baseurl: "/"
+#url: "http://localhost:4000"
+#======================================================
+baseurl: "/FOSH-following-demand.github.io/"
+url: "https://amchagas.github.io"
 #======================================================
 # baseurl: "/amchagas/"
 # url: "https://gooshie.github.io"
@@ -72,6 +75,9 @@ t:
     survey:
       name: "Survey"
       url: "/en/survey"
+#    end:
+#      name: "End"
+#      url: "/en/end"
 
   pt:
     home:
@@ -89,6 +95,10 @@ t:
     survey:
       name: "Questionario"
       url: "/pt/questionario"
+#    end:
+#      name: "End"
+#      url: "/en/end"
+
 
 #language support
 #languages: ["en", "pt_BR"]
