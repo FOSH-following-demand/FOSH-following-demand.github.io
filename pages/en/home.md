@@ -26,13 +26,15 @@ ref: home
 
 <br>
 
-- Here is the [roadmap](https://github.com/orgs/FOSH-following-demand/projects/2) showing where we want to go.    
 
-- To read more details about the project, [click here](https://fosh-following-demand.github.io/en/about)
+#### - Here is the [roadmap](https://github.com/orgs/FOSH-following-demand/projects/2) showing where we want to go.    
 
-- To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
+#### - To read more details about the project, [click here](https://fosh-following-demand.github.io/en/about)
 
-- To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
+#### - To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
+
+#### - To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
+
 
 
 <br>
@@ -40,9 +42,4 @@ ref: home
 ---
 
 
-
-#### This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).
-
-<br>
-
----
+This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).

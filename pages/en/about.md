@@ -7,6 +7,7 @@ ref: about
 ---
 
 {% raw %}
+
 <br>
   <center>
     <h1>
@@ -14,12 +15,18 @@ ref: about
 
 
 <br>
+
 {% endraw %}
 
-### Here is the short version of what this is all about:
+
+
+<h3> Here is the short version of what this is all about:
 
 
 <br>
+
+
+
 
 
 - In order to do research and to train/educate others, scientists/teachers and need access to hardware. Scientific hardware is normally expensive and it doesn't have to be. So we want to find out what people need in terms of equipment and build Open Source versions of them following this demand. The project can be roughly divided into two branches:
