@@ -8,17 +8,28 @@ ref: collaborating
 ---
 
 
+---
+
   <center> <h1> Collaborating
+
+
 
 
 <br>
 
+#### To ensure collaborators and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
+
+
+
+<br>
+
+#### There are several ways to collaborate to this project! please find them listed below:
 
 <br>
 
 
 <left>
-## Currently we are tackling these issues (below) and all help and suggestions are welcome!
+## Currently we are tackling these issues (all help and suggestions are welcome!)
 
 
 <br>

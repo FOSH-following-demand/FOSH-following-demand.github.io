@@ -6,6 +6,7 @@ lang: en
 ref: about
 ---
 
+<center> <h1> About
 
 
 ### Here is the short version of what this is all about:

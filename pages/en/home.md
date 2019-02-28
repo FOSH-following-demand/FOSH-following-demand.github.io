@@ -17,11 +17,11 @@ ref: home
 
 
 
- #### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open souce!
+ #### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open source!
 
 <br>
 
-####  Our first step is to conduct online surveys to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+####  Our first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
 
 <br>
 
@@ -39,19 +39,6 @@ ref: home
 ---
 
 
-
-
-
-- #### There are several ways to collaborate to this project! please find them listed on the [collaborating page](https://fosh-following-demand.github.io/en/collaborating)
-
-
-- #### To ensure collaborators and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
-
-
-<br>
-
-
----
 
 ### This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).
 
