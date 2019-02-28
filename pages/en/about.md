@@ -9,9 +9,10 @@ ref: about
 {% raw %}
 
 <br>
-  <center>
-    <h1>
-      About
+  <p>
+    <center>
+      <h1>
+        About
 
 
 <br>
@@ -20,7 +21,7 @@ ref: about
 
 
 
-<h3> Here is the short version of what this is all about:
+### Here is the short version of what this is all about:
 
 
 <br>
