@@ -1,8 +1,9 @@
 ---
 layout: default
 permalink: /en/end
+title: ""
 lang: en
-ref: end
+ref: End
 ---
 
 
@@ -22,7 +23,6 @@ This website was built using:
 ---
 
 <br>
-
-        <center>
-          <h2>  This project is supported by:   </h2>
-        </center>
+  <center>
+    <h2>  This project is supported by:   </h2>
+  </center>

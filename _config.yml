@@ -76,7 +76,7 @@ t:
       name: "Survey"
       url: "/en/survey"
     end:
-      name: "end"
+      name: "End"
       url: "/en/end"
 
   pt:
@@ -96,7 +96,7 @@ t:
       name: "Questionario"
       url: "/pt/questionario"
     end:
-      name: "end"
+      name: "End"
       url: "/en/end"
 
 

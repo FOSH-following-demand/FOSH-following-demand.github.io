@@ -40,8 +40,3 @@ ref: home
 <br>
 
 ---
-
-
-This is an open source project, here is its [license](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE).
-
----
