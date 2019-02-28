@@ -6,4 +6,8 @@ lang: en
 ref: map
 ---
 
-<center><h1> TBA
+<br>
+
+<center><h1> MAP TBA
+
+<br>
