@@ -6,7 +6,11 @@ lang: en
 ref: survey
 ---
 
-<center> <h1> Survey
+<center>
+  <h1> Survey </h1>
+</center>
+
+
 #### below you can find links to the survey in different languages (please check [collaborating](link) if you would like to contribute with a translation!), it should take no more then 7 minutes to complete it:
 
 

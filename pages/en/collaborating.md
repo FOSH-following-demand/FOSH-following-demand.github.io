@@ -30,7 +30,7 @@ ref: collaborating
 <br>
 
 
-<left>
+
 ## Currently we are tackling these issues (all help and suggestions are welcome!)
 
 
