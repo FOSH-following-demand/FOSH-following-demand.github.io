@@ -75,9 +75,9 @@ t:
     survey:
       name: "Survey"
       url: "/en/survey"
-    end:
-      name: "End"
-      url: "/en/end"
+#    end:
+#      name: "End"
+#      url: "/en/end"
 
   pt:
     home:
@@ -95,9 +95,9 @@ t:
     survey:
       name: "Questionario"
       url: "/pt/questionario"
-    end:
-      name: "End"
-      url: "/en/end"
+#    end:
+#      name: "End"
+#      url: "/en/end"
 
 
 #language support
