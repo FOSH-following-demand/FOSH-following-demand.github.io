@@ -6,13 +6,18 @@ lang: en
 ref: about
 ---
 
+{% raw %}
 <br>
+  <center>
+    <h1>
+      About
 
-<center> <h1> About
 
 <br>
+{% endraw %}
 
 ### Here is the short version of what this is all about:
+
 
 <br>
 

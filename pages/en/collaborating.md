@@ -9,13 +9,18 @@ ref: collaborating
 
 
 ---
+
+{% raw %}
 <br>
-
-
-  <center> <h1> Collaborating
+  <p>
+    <center>
+      <h1>
+        Collaborating
 
 
 <br>
+<br>
+{% endraw %}
 
 
 #### To ensure collaborators and visitors feel welcome, we have a [code of conduct](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), please take a moment to read it!
