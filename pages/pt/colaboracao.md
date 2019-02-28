@@ -10,7 +10,9 @@ ref: collaborating
 
 ---
 
-<center><h1> Colaborações
+<center>
+  <h1> Colaborações </h1>
+</center>
 
 <br>
 
