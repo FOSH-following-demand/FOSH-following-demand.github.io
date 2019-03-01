@@ -63,7 +63,7 @@ ref: collaborating
 
 <br>
 
-#### - ~~Spanish~~ *Done* Thanks [@Gusma](https://github.com/gusma)!
+#### - ~~Spanish~~ *Done* Thanks [@Gusma](https://github.com/gusma) and [@Thessaly](https://github.com/thessaly)!
 #### - ~~German~~ *Done* Thanks [@vektorius](https://github.com/vektorious)!
 #### - Italian
 #### - French
