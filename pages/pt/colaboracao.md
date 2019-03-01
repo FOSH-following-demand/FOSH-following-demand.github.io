@@ -23,7 +23,7 @@ ref: collaborating
 
 
 #### Existem diversas maneiras de colaborar com esse projeto! Por favor veja algumas sugestões abaixo:
-(caso você queira colaborar, e seu tópico não esteja na lista, não hesite em nos [contactar](andremaia.chagas@gmail.com)!)
+(caso você queira colaborar, e seu tópico não esteja na lista, não hesite em nos contactar @ andremaia.chagas[at]gmail.com !
 
 <br>
 
@@ -42,7 +42,7 @@ ref: collaborating
 #### Problemas com o questionário:
 - Assim como o site, nós queremos que o questionário alcance o maior número de pessoas possível! Logo, queremos traduzi-las para diversos idiomas!
 
- - ~~Espanhol~~ *Done* Obrigado [@Gusma](https://github.com/gusma) e [@Thelassy](https://github.com/Thelassy)!
+ - ~~Espanhol~~ *Done* Obrigado [@Gusma](https://github.com/gusma) e [@Thessaly](https://github.com/thessaly)!
  - ~~Alemão~~ *Done* Obrigado [@vektorius](https://github.com/vektorious)!
  - Italiano
  - ~~Francês~~ *Done* Obrigado [@Max](https://github.com/maxzimmer)!
