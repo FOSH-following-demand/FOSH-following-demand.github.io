@@ -5,19 +5,15 @@ permalink: /es/acerca
 lang: es
 ref: acerca
 ---
-### Aquí una breve versión de qué se trata todo esto:
-- Para hacer investigación y entrenar/educar a otros, los científicos/profesores requieren de acceso a equipamiento. Scientific hardware is normally expensive and it doesn't have to be. So we want to find out what people need in terms of equipment and build Open Source versions of them following this demand. The project can be roughly divided into two branches:
-
-  - [Map demand](https://github.com/FOSH-following-demand/map_fosh_demand)
-  - Tools being build following demand:
+### Aquí una breve versión sobre qué trata todo esto:
+- Para hacer investigación y entrenar/educar a otros, los científicos/profesores requieren de acceso a equipos de laboratorio. El equipamiento científico es normalmente costoso y no tiene que serlo. Nuestro objetivo es identificar las necesidades de las personas en relación a equipamiento y construir versiones de código abierto para ellos siguiendo la demanda. Este proyecto puede dividirse en dos ramas:
+  - [Mapa de demanda](https://github.com/FOSH-following-demand/map_fosh_demand)
+  - Herramientas construidas siguiendo la demanda:
     - Shaker
-    - Microscope
-    - Sound stimulator
-    - Thermocycler
+    - Microscopio
+    - Estimulador de sonido
+    - Termociclador
     - ....
-
-
-
 
 ### Here is the longer version:
 
