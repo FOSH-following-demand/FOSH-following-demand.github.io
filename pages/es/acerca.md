@@ -20,7 +20,7 @@ ref: acerca
  
 - Esto es bueno en el sentido de que las universidades y la industria pueden trabajar en colaboración para aprovechar las fortalezas de los demás; pero es malo porque algo que tuvo una gran cantidad de inversión pública se convierta en un producto cerrado por defecto. 
 
-- Tratando de remediar este problema, nos gustaría construir Hardware Científico Abierto, algo que ya ha sido hecho por diferentes grupos/comunidades alrededor del mundo. Lo que diferencia a nuestra iniciativa (hasta donde sabemos) es que tratamos de mapear las necesidades de los investigadores y así construir los equipos siguiendo a estas necesidades, bajo la justificación que podemos maximizar los beneficios de nuestros esfuerzos mediante la creación de herramientas que son necesarias para un gran número de usuarios. Estamos dividiendo este proyectos en pasos:
+- Tratando de remediar este problema, nos gustaría construir Hardware Científico Abierto, esfuerzo que ya ha sido hecho por diferentes grupos/comunidades alrededor del mundo. Lo que diferencia a nuestra iniciativa (hasta donde sabemos) es que tratamos de mapear las necesidades de los investigadores y así construir los equipos siguiendo a estas necesidades, bajo la justificación que podemos maximizar los beneficios de nuestros esfuerzos mediante la creación de herramientas que son necesarias para un gran número de usuarios. Estamos dividiendo este proyectos en pasos:
  
   -  Mapa de Demanda (esto empezó como una colaboración entre Prometheus Science y "Rede de Pesquisadores", Wikimedia Germany (via Freieswissen Fellowship) y la Fundación Mozilla (via Mozilla Fellowship). Se espera que este proyecto este completo (por lo menos el primer mapa) en Junio 2019.
 
