@@ -24,9 +24,10 @@ ref: acerca
  
   -  Mapa de Demanda (esto empezó como una colaboración entre Prometheus Science y "Rede de Pesquisadores", Wikimedia Germany (via Freieswissen Fellowship) y la Fundación Mozilla (via Mozilla Fellowship). Se espera que este proyecto este completo (por lo menos el primer mapa) en Junio 2019.
 
-  -  Involucrar a las personas y comunidades que están construyendo/usando hardware para comenzar a construir siguiendo el mapa. Este es un esfuerzo continuo. Para mayor información, puede visitar la [página en github del proyecto](https://github.com/FOSH-following-demand)
+  -  Involucrar a las personas y comunidades que están construyendo/usando hardware para comenzar a construir siguiendo el mapa. Este es un esfuerzo continuo. Para mayor información, puede visitar la [página en Github del proyecto](https://github.com/FOSH-following-demand)
 
 
 Esta página web fue construida usando:
+
 [Jekyll](https://jekyllrb.com)  
 [Jekyll-mapping](https://github.com/matthewowen/jekyll-mapping)
