@@ -6,8 +6,7 @@ lang: es
 ref: colaboracion
 #order: 4
 ---
-#### Actualmente estamos abordando estos pendientes (a continuación) ¡toda ayuda y sugerencia son bienvenidas!
-
+#### Actualmente estamos abordando estos pendientes ¡toda ayuda y sugerencia son bienvenidas!
 <br>
 ## Pendientes para la [página web](https://fosh-following-demand.github.io/en/home):
 - #### ¡Queremos llegar a tantas personas como sea posible! Por lo tanto, nos gustaría traducir el sitio web a diversos idiomas:
