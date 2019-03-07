@@ -19,8 +19,10 @@ ref: colaboracion
  - ~~Inglés~~ *Hecho*
 
 <br>
+
 - #### ¿Tu idioma se encuentra en la lista? - Si no aparece ¡No te preocupes!
    - #### Si deseas traducirlo a tu idioma y estas familiarizado con los sistemas Git, sólo haz un "fork" a este repositorio, traduce las páginas en una carpeta separada y realiza un "pull request". Si no estas familiarizado, escríbenos un mensaje a andremaia [at] mozillafoundation.org para apoyarte 
+
 <br>
 
 - #### Más pendientes relacionados a la página web lo pueden encontrar directamente en el [repositorio](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues).
