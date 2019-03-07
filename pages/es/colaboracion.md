@@ -10,7 +10,7 @@ ref: colaboracion
 <br>
 
 ## Pendientes para la [página web](https://fosh-following-demand.github.io/en/home):
-- #### ¡Queremos llegar a tantas personas como sea posible! Por lo tanto, nos gustaría traducir el sitio web a diversos idiomas:
+#### ¡Queremos llegar a tantas personas como sea posible! Por lo tanto, nos gustaría traducir el sitio web a diversos idiomas:
  - ~~Español~~ *Hecho*
  - Alemán
  - Italiano
