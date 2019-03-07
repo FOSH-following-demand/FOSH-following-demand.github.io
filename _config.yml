@@ -95,6 +95,23 @@ t:
     survey:
       name: "Questionario"
       url: "/pt/questionario"
+
+  es:
+    home:
+      name: "Inicio"
+      url: "/es/inicio"
+    about:
+      name: "Sobre"
+      url: "/es/acerca"
+    collaborating:
+      name: "Colaboracion"
+      url: "/es/colaboracion"
+    map:
+      name: "Mapa"
+      url: "/es/mapa"
+    survey:
+      name: "Encuesta"
+      url: "/es/encuesta"
 #    end:
 #      name: "End"
 #      url: "/en/end"
