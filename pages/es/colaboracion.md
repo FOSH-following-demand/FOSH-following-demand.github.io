@@ -7,7 +7,6 @@ ref: colaboracion
 #order: 4
 ---
 #### Actualmente estamos abordando estos pendientes ¡toda ayuda y sugerencia son bienvenidas!
-
 <br>
 
 ## Pendientes para la [página web](https://fosh-following-demand.github.io/en/home):
@@ -44,10 +43,10 @@ ref: colaboracion
  - ### ¿Tu idioma se encuentra en la lista? - Si no aparece ¡No te preocupes!
    - #### Si deseas traducirlo a tu idioma y estas familiarizado con los sistemas Git, sólo haz un "fork" a este repositorio, traduce las páginas en una carpeta separada y realiza un "pull request". Si no estas familiarizado, escríbenos un mensaje a andremaia [at] mozillafoundation.org para apoyarte
 
-- - ### Más pendientes relacionados a la encuesta lo pueden encontrar directamente en el [repositorio](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues).
+- ### Más pendientes relacionados a la encuesta lo pueden encontrar directamente en el [repositorio](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues).
 <br>
 
-### Pendientes para el hadware:
+## Pendientes para el hadware:
 - #### Actualmente no estamos desarrollando el hardware, pero este espacio esta reservado para las tareas y pendientes durante el proceso de desarrollo asi como los pendientes en los repositorios de hardware.
 
 <br>
