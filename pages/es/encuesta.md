@@ -12,26 +12,23 @@ ref: encuesta
 
 <br>
 
-#### 
+### A continuación, puede encontrar los enlaces de la encuesta en diferentes idiomas (marque [colaborar](link) si desea contribuir con una traducción), no debería tomar más de 7 minutos completarla: 
 
-below you can find links to the survey in different languages (please check [collaborating](link) if you would like to contribute with a translation!), it should take no more then 7 minutes to complete it:
+[versión en Inglés](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
 
+[versión en Español](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=es)
 
-[English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
+[versión en Portugués](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=pt-BR)
 
-[Spanish version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=es)
+[versión en Alemán](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=de)
 
-[Portuguese version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=pt-BR)
-
-[German version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=de)
-
-[French version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=fr)
+[versión en Francés](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=fr)
 
 <br>
 
-#### If you just want to receive updates with the progress of this project and survey findings, please fill out the following form:
+#### Si sólo desea recibir actualizaciones sobre el progreso de este proyecto y los resultados de la encuesta, complete el siguiente formulario: 
 
-[English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
+[versión en Inglés](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
 
 ---
 
