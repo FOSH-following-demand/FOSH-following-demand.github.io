@@ -8,7 +8,7 @@ ref: colaboracion
 ---
 <br>
   <center>
-    <h1> Collaborating </h1>
+    <h1> Colaboración </h1>
   </center>
 <br>
 
