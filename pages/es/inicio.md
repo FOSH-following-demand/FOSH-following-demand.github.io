@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Inicio
 subTitle: Construyendo herramientas para la educación y la ciencia
 permalink: /es/inicio
