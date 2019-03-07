@@ -24,9 +24,9 @@ ref: inicio
 
 #### - Aquí esta el [mapa de ruta](https://github.com/orgs/FOSH-following-demand/projects/2) que muestra a donde queremeos llegar.    
 
-#### - Para leer más sobre los detalles del proyecto, [haz click aquí](https://fosh-following-demand.github.io/en/about)
+#### - Para leer más sobre los detalles del proyecto, [haz click aquí](https://fosh-following-demand.github.io/es/acerca)
 
-#### - Para completar la Encuesta, por favor, sigue este [link](https://fosh-following-demand.github.io/en/survey)
+#### - Para completar la Encuesta, por favor, sigue este [link](https://fosh-following-demand.github.io/es/encuesta)
 
 #### - Para recibir noticias e información acerca de la encuesta, por favor complete este [formulario](https://fosh-following-demand.github.io/en/survey#contactform)
 
