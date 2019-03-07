@@ -28,7 +28,7 @@ ref: inicio
 
 #### - Para completar la Encuesta, por favor, sigue este [link](https://fosh-following-demand.github.io/en/survey)
 
-#### - Para recibir noticias e información acerca de la encuesta, por favor complete este [formulario](https://fosh-following-demand.github.io/en/survey#contact form)
+#### - Para recibir noticias e información acerca de la encuesta, por favor complete este [formulario](https://fosh-following-demand.github.io/en/survey#contactform)
 
 <br>
 
