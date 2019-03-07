@@ -15,8 +15,9 @@ Este es un proyecto de código abierto bajo esta [licencia](https://github.com/F
 
 Esta sitio web fue construido utilizando:
 
-   [Jekyll](https://jekyllrb.com)
-   [Jekyll-mapping](https://github.com/matthewowen/jekyll-mapping)
+[Jekyll](https://jekyllrb.com)
+
+[Jekyll-mapping](https://github.com/matthewowen/jekyll-mapping)
 
 ---
 
