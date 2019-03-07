@@ -33,7 +33,7 @@ ref: home
 
 #### - To fill the Survey, please follow this [link](https://fosh-following-demand.github.io/en/survey)
 
-#### - To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contact form)
+#### - To receive project updates and information about the survey, please fill out this [form](https://fosh-following-demand.github.io/en/survey#contactform)
 
 
 
