@@ -3,7 +3,7 @@ layout: default
 title: Mapa
 permalink: /es/mapa
 lang: es
-ref: mapa
+ref: map
 ---
 
 <br>

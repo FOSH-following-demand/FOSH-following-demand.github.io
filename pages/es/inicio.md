@@ -4,7 +4,7 @@ title: Inicio
 subTitle: Construyendo herramientas para la educación y la ciencia
 permalink: /es/inicio
 lang: es
-ref: inicio
+ref: home
 #order: 0
 ---
 

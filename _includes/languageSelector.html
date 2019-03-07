@@ -16,10 +16,13 @@
         {%- case page.lang -%}
           {%- when 'en' -%}
             English
-          {%- when 'pt' -%}
-            Português
+
           {%- when 'es' -%}
             Español
+            
+          {%- when 'pt' -%}
+            Português
+
           {%- else -%}
             {{ page.lang }}
           {%- endcase -%}

@@ -3,7 +3,7 @@ layout: default
 title: Colaboración
 permalink: /es/colaboracion
 lang: es
-ref: colaboracion
+ref: collaborating
 #order: 4
 ---
 <br>
@@ -36,7 +36,7 @@ ref: colaboracion
 <br>
 
 #### - ¿Tu idioma se encuentra en la lista? - Si no aparece ¡No te preocupes!
-####    - Si deseas traducirlo a tu idioma y estas familiarizado con los sistemas Git, sólo haz un "fork" a este repositorio, traduce las páginas en una carpeta separada y realiza un "pull request". Si no estas familiarizado, escríbenos un mensaje a andremaia [at] mozillafoundation.org para apoyarte 
+####    - Si deseas traducirlo a tu idioma y estas familiarizado con los sistemas Git, sólo haz un "fork" a este repositorio, traduce las páginas en una carpeta separada y realiza un "pull request". Si no estas familiarizado, escríbenos un mensaje a andremaia [at] mozillafoundation.org para apoyarte
 
 #### - Más pendientes relacionados a la página web lo pueden encontrar directamente en el [repositorio](https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/issues).
 
@@ -49,7 +49,7 @@ ref: colaboracion
  - Italiano
  - Francés
  - ~~Portugués~~ *Hecho* Gracias [@amchagas](https://github.com/amchagas)
- - ~~Inglés~~ *Hecho* 
+ - ~~Inglés~~ *Hecho*
 
 <br>
 

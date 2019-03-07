@@ -3,7 +3,7 @@ layout: default
 title: Encuesta
 permalink: /es/encuesta
 lang: es
-ref: encuesta
+ref: survey
 ---
 
 <center>
@@ -12,7 +12,7 @@ ref: encuesta
 
 <br>
 
-### A continuación, puede encontrar los enlaces de la encuesta en diferentes idiomas (marque [colaborar](link) si desea contribuir con una traducción), no debería tomar más de 7 minutos completarla: 
+### A continuación, puede encontrar los enlaces de la encuesta en diferentes idiomas (marque [colaborar](link) si desea contribuir con una traducción), no debería tomar más de 7 minutos completarla:
 
 [versión en Inglés](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
 
@@ -26,7 +26,7 @@ ref: encuesta
 
 <br>
 
-#### Si sólo desea recibir actualizaciones sobre el progreso de este proyecto y los resultados de la encuesta, complete el siguiente formulario: 
+#### Si sólo desea recibir actualizaciones sobre el progreso de este proyecto y los resultados de la encuesta, complete el siguiente formulario:
 
 [versión en Inglés](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
 
