@@ -8,7 +8,7 @@ ref: about\
 
 <br>
   <center>
-    <h1> About </h1>  
+    <h1> Acerca </h1>  
   </center>
 <br>
 
