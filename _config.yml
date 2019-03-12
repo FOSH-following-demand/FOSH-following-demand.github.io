@@ -41,9 +41,9 @@ social:
   - title: twitter
     url: https://twitter.com/Chagas_am
   - title: github
-    url: https://github.com/amchagas
-  - title: linkedin
-    url:
+    url: https://github.com/FOSH-following-demand
+  #- title: linkedin
+  #  url:
 
 highlighter: rouge
 safe: False
