@@ -23,9 +23,7 @@ ref: about
 
 
 
-
-
-#### - In order to do research and to train/educate others, scientists/teachers and need access to hardware. Scientific hardware is normally expensive and it doesn't have to be. So we want to find out what people need in terms of equipment and build Open Source versions of them following this demand. The project can be roughly divided into two branches:
+ - In order to do research and to train/educate others, scientists/teachers and need access to hardware. Scientific hardware is normally expensive and it doesn't have to be. So we want to find out what people need in terms of equipment and build Open Source versions of them following this demand. The project can be roughly divided into two branches:
 
  - [Map demand](https://github.com/FOSH-following-demand/map_fosh_demand)
  - Tools being build following demand:
@@ -52,5 +50,5 @@ ref: about
 
  -  Engage people and communities who are building/using hardware to start building following the map. This is an ongoing effort. More information can be found at the [project github page](https://github.com/FOSH-following-demand)
 
----
+
 <br>
