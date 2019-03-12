@@ -15,11 +15,13 @@ ref: home
 
 <br>
 
-#### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open source!
+
+### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open source!
+
 
 <br>
 
-#### The first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+### The first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
 
 
 <br>
