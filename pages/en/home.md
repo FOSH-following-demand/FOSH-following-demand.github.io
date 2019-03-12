@@ -11,7 +11,7 @@ ref: home
 
 <br>
 
-### Hi! welcome to the landing page of our project!
+#### Hi! welcome to the landing page of our project!
 
 <br>
 
@@ -22,7 +22,7 @@ ref: home
 
 <br>
 
-### The first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+#### The first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
 
 
 <br>
