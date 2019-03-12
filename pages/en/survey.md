@@ -15,23 +15,23 @@ ref: survey
 #### below you can find links to the survey in different languages (please check [collaborating](link) if you would like to contribute with a translation!), it should take no more then 7 minutes to complete it:
 
 
-[English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
+- [English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=en)
 
-[Spanish version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=es)
+- [Spanish version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=es)
 
-[Portuguese version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=pt-BR)
+- [Portuguese version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=pt-BR)
 
-[German version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=de)
+- [German version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=de)
 
-[French version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=fr)
+- [French version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/456854?lang=fr)
 
 <br>
 
 #### If you just want to receive updates with the progress of this project and survey findings, please fill out the following form:
 
-[English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
+- [English version](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/432173?lang=en)
 
----
+
 
 <!--
 {% raw %}

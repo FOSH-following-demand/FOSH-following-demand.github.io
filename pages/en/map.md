@@ -9,7 +9,7 @@ ref: map
 <br>
 
   <center>
-    <h1> MAP TBA </h1>
+    <h3> MAP TBA </h3>
   </center>
 
 <br>
