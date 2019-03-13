@@ -47,8 +47,13 @@ Also to make sure all contributors and visitors have a good time while interacti
 
 ## Contributors:
 
-None of this would be possible without the contributions of many wonderful people. Below are contributors that have made comments, requests, solved issues, and interacted directly here on GitHub:
+None of this would be possible without the contributions of many wonderful people. 
+
+Below are contributors that have made comments, requests, solved issues, and interacted directly here on GitHub:
 
 |![EmDupre](https://avatars0.githubusercontent.com/u/15017191?s=96&v=4)|![Gooshie](https://avatars0.githubusercontent.com/u/4983604?s=100&v=4)|![Johav](https://avatars1.githubusercontent.com/u/13553996?s=96&v=4)|![Thessaly](https://avatars0.githubusercontent.com/u/33497609?s=96&v=4)|![Vektorius](https://avatars3.githubusercontent.com/u/20026476?s=96&v=4)|![Gusma](https://avatars1.githubusercontent.com/u/140903?s=96&v=4)|![MaxZimmer](https://avatars3.githubusercontent.com/u/35870697?s=96&v=4)|
 |--|--|--|--|--|--|--|
 |![pgpadilla](https://avatars2.githubusercontent.com/u/32402688?s=96&v=4)|![chpmnrssll](https://avatars1.githubusercontent.com/u/2609100?s=96&v=4)|![aquillesC](https://avatars0.githubusercontent.com/u/2494344?s=96&v=4)|![torlax](https://avatars0.githubusercontent.com/u/2490770?s=96&v=4)|![patito](https://avatars2.githubusercontent.com/u/396454?s=96&v=4)|![jurra](https://avatars0.githubusercontent.com/u/18581201?s=96&v=4)|
+
+<br>
+Our appreciation note also to the ones that are not on this platform, but contributed anyway!
