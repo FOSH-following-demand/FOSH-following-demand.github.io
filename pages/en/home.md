@@ -11,12 +11,13 @@ ref: home
 
 <br>
 
-### Hi! welcome to the landing page of our project!
+#### Hi! welcome to the landing page of our project!
 
 <br>
 
 
 #### Our main goal is to increase access to science and education by making their tools (think laboratory equipment) open source!
+
 
 
 <br>
