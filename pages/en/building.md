@@ -30,7 +30,7 @@ ref: building
 #### For this step, we will be executing a distributed building event.
 <br>
 
-#### More details can be [found here](https://github.com/FOSH-following-demand/building_event/blob/master/criteria_and_application.md), but in short, people interested should apply in groups of at least three people.
+#### More details can be [found here](https://github.com/FOSH-following-demand/building_event/blob/master/criteria_and_application.md), but in short, people interested should apply in groups of at least three people and be able to dedicate some time per week to build and document their prototypes, over a period of 3 months.
 <br>
 #### We will cover costs for components up to 800 dollars and help groups with documentation, knowledge generation and support with development by having weekly check ins and bringing in external expertise when necessary.
 <br>
