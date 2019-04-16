@@ -22,7 +22,7 @@ ref: home
 
 <br>
 
-#### The first step is to conduct [online surveys](bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
+#### The first step is to conduct an [online survey](http://bit.ly/BFOSH) to learn what researchers, educators, DIYers and curious people need/miss in their work places to conduct their scientific experiments.
 
 
 <br>
