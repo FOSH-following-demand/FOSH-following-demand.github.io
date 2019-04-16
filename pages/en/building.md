@@ -29,3 +29,5 @@ We will cover costs for components up to 800 dollars and help groups with docume
 By the end of the 3 month period, groups will come together online to share their experiences and report where they want to take their projects.
 
 **Apply by following instructions in this [form](http://ec2-3-17-144-2.us-east-2.compute.amazonaws.com/index.php/148539?newtest=Y&lang=en).**
+
+**Applications are open until May 5th 2019.**
