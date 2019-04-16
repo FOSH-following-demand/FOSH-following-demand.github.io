@@ -75,6 +75,9 @@ t:
     survey:
       name: "Survey"
       url: "/en/survey"
+    building:
+      name: "Building"
+      url: "/en/building"
 #    end:
 #      name: "End"
 #      url: "/en/end"
@@ -95,6 +98,9 @@ t:
     survey:
       name: "Questionario"
       url: "/pt/questionario"
+    building:
+      name: "Construindo"
+      url: "/en/building"
 
   es:
     home:
@@ -112,6 +118,9 @@ t:
     survey:
       name: "Encuesta"
       url: "/es/encuesta"
+    building:
+      name: "Construindo"
+      url: "/en/building"
 #    end:
 #      name: "End"
 #      url: "/en/end"
