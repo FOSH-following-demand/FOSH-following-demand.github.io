@@ -16,13 +16,18 @@ ref: building
 <br>
 
 
+
 #### **Build free and open source science tools: Call for participation**
+
 
 #### It is with great enthusiasm that we call makers, DIYers, researchers and educators to build science and education tools people need!
 
+
 #### This is the second step on our mapping project, where we asked researchers and educators worldwide what kind of tools they needed in their labs. The results of the survey are in, and now we want to engage communities to build the needed tools.
 
+
 #### For this step, we will be executing a distributed building event.
+
 
 #### More details can be [found here](https://github.com/FOSH-following-demand/building_event/blob/master/criteria_and_application.md), but in short, people interested should apply in groups of at least three people.
 
