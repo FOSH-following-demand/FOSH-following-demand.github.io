@@ -1,12 +1,31 @@
 ---
-layout: page
+layout: default
 title: Colaboraçao
 permalink: /pt/colaboracao
 lang: pt
 ref: collaborating
 #order: 4
 ---
-#### No momento nós estamos cuidando dos seguintes problemas(abaixo). Toda ajuda é bem vinda!
+
+
+---
+
+<center>
+  <h1> Colaborações </h1>
+</center>
+
+<br>
+
+
+#### Para garantir que todos se sintam a vontade para participar desse espaço, nós temos um [código de conduta](https://github.com/FOSH-following-demand/map_fosh_demand/blob/master/CODE_OF_CONDUCT.md), por favor use alguns momentos para ler o documento.
+
+<br>
+
+
+#### Existem diversas maneiras de colaborar com esse projeto! Por favor veja algumas sugestões abaixo:
+(caso você queira colaborar, e seu tópico não esteja na lista, não hesite em nos contactar @ andremaia.chagas[at]gmail.com !
+
+<br>
 
 #### Problemas no próprio site:
 - Nós queremos alcançar o maior número possível de pessoas! Por isso vamos traduzir o questionário para diversos idiomas:
@@ -23,11 +42,11 @@ ref: collaborating
 #### Problemas com o questionário:
 - Assim como o site, nós queremos que o questionário alcance o maior número de pessoas possível! Logo, queremos traduzi-las para diversos idiomas!
 
- - ~~Espanhol~~ *Done* Thanks [@Gusma](https://github.com/gusma)!
- - ~~Alemão~~ *Done* Thanks [@vektorius](https://github.com/vektorious)!
+ - ~~Espanhol~~ *Done* Obrigado [@Gusma](https://github.com/gusma) e [@Thessaly](https://github.com/thessaly)!
+ - ~~Alemão~~ *Done* Obrigado [@vektorius](https://github.com/vektorious)!
  - Italiano
- - Francês
- - ~~Inglês~~ *Done!* Thanks [@amchagas](https://github.com/amchagas)
+ - ~~Francês~~ *Done* Obrigado [@Max](https://github.com/maxzimmer)!
+ - ~~Inglês~~ *Done!* Obrigado [@amchagas](https://github.com/amchagas)!
 
 
  - O seu idioma não está listado aqui? - Sem problemas!

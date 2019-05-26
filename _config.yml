@@ -17,33 +17,40 @@
 title: "Building FOSH following demand"
 email: "andremaia.chagas@gmail.com"
 description: " Hi! This is the landing page for the Building FOSH followind demand project. Here you'll find news, results and information on how to collaborate with this project."
-
-
+copyright: 'Copyright &copy; 2019 FOSH All Rights Reserved.'
 
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
-baseurl: ""
+baseurl: "/"
 url: "https://FOSH-following-demand.github.io"
 #======================================================
-# baseurl: "/amchagas"
-# url: "http://gooshie.github.io"
+#baseurl: "/"
+#url: "http://localhost:4000"
+#======================================================
+#baseurl: "/FOSH-following-demand.github.io/"
+#url: "https://amchagas.github.io"
+#======================================================
+# baseurl: "/amchagas/"
+# url: "https://gooshie.github.io"
 #======================================================
 # baseurl & url must be changed for testing when forked
 #======================================================
 
-
-
-twitter_username: "Chagas_am"
-github_username:  "amchagas"
-
+social:
+  - title: twitter
+    url: https://twitter.com/Chagas_am
+  - title: github
+    url: https://github.com/FOSH-following-demand
+  #- title: linkedin
+  #  url:
 
 highlighter: rouge
 safe: False
 # Build settings
 markdown: kramdown
-theme: minima
-#theme: jekyll-theme-leap-day
+# theme: minima
+# theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -68,6 +75,12 @@ t:
     survey:
       name: "Survey"
       url: "/en/survey"
+    building:
+      name: "Building"
+      url: "/en/building"
+#    end:
+#      name: "End"
+#      url: "/en/end"
 
   pt:
     home:
@@ -85,6 +98,34 @@ t:
     survey:
       name: "Questionario"
       url: "/pt/questionario"
+    building:
+      name: "Construindo"
+      url: "/en/building"
+
+  es:
+    home:
+      name: "Inicio"
+      url: "/es/inicio"
+    about:
+      name: "Sobre"
+      url: "/es/acerca"
+    collaborating:
+      name: "Colaboracion"
+      url: "/es/colaboracion"
+    map:
+      name: "Mapa"
+      url: "/es/mapa"
+    survey:
+      name: "Encuesta"
+      url: "/es/encuesta"
+    building:
+      name: "Construindo"
+      url: "/en/building"
+#    end:
+#      name: "End"
+#      url: "/en/end"
+
+
 #language support
 #languages: ["en", "pt_BR"]
 #default_lang: "en"

@@ -1,0 +1,22 @@
+<nav id="siteNavigation" class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+  <a class="navbar-brand page-scroll ml-lg-3" href="/">{{ site.title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-end" id="navbarContent">
+    <ul class="navbar-nav nav">
+      {% assign parent_page = page.permalink %}
+      {% for menu in site.t[page.lang] %}
+        <li class="nav-item">
+          <a class="nav-link page-scroll" href="#{{ menu[1].name }}">{{ menu[1].name }}</a>
+        </li>
+      {% endfor %}
+      <li class="nav-item dropdown ml-lg-3 mr-lg-5">
+        <button class="btn btn-light nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Language
+        </button>
+        {% include languageSelector.html %}
+      </li>
+    </ul>
+  </div>
+</nav>

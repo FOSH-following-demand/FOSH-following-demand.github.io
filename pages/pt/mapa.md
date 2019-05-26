@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Mapa
 permalink: /pt/mapa
 lang: pt

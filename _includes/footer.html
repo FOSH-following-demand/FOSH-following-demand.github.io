@@ -1,0 +1,46 @@
+<footer>
+
+<br>
+This is an open source project, here is its
+<a href=https://github.com/FOSH-following-demand/FOSH-following-demand.github.io/blob/master/LICENSE> license </a>.
+<br>
+
+
+
+This website was built using:
+<br>
+
+     <a href=https://jekyllrb.com> Jekyll</a>
+<br>
+
+     <a href=https://github.com/matthewowen/jekyll-mapping> Jekyll-mapping </a>
+
+  <br>
+    <center>
+      <h2>  This project is supported by:   </h2>
+    </center>
+
+    <div class="row">
+      {% include supportedBy.html %}
+    </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="row">
+          {% assign parent_page=page.permalink %}
+          {% for menu in site.t[page.lang] %}
+            <a class="page-scroll small" href="#{{ menu[1].name }}">{{ menu[1].name }}</a>
+            {% if forloop.last == false %}
+              <span class="mx-2">&sdot;</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+        <p class="mt-2 text-muted small">{{ site.copyright }}</p>
+      </div>
+      <div class="col-md-4">
+        <p class="small">{{ site.description }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

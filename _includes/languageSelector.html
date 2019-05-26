@@ -1,0 +1,32 @@
+<div id="languageDropdown" class="dropdown-menu" aria-labelledby="navbarDropdown">
+  <!-- posts -->
+  {%- assign posts = site.posts | where: "ref", page.ref | sort: "lang" -%}
+
+  {%- for post in posts -%}
+    <a class="dropdown-item {{ post.lang }}" href="{{ post.url | relative_url }}">{{ post.lang }}</a>
+  {%- endfor -%}
+
+  {%- assign parent_page_lang = page.lang -%}
+  {%- assign pages = site.pages | where: "ref", page.ref | sort: "lang" -%}
+
+  <!-- pages -->
+  {%- for page in pages -%}
+    {%- if page.url != "/" -%}
+      <a id="{{ page.lang }}" class="dropdown-item{% if parent_page_lang == page.lang %} active{% endif %}" href="{{ page.url | relative_url }}">
+        {%- case page.lang -%}
+          {%- when 'en' -%}
+            English
+
+          {%- when 'es' -%}
+            Español
+            
+          {%- when 'pt' -%}
+            Português
+
+          {%- else -%}
+            {{ page.lang }}
+          {%- endcase -%}
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
